@@ -1,0 +1,5 @@
+crew,work_orders,emergency,urgent,routine,first_sequence
+Arbor-1,2,2,0,0,2
+Arbor-2,2,0,2,0,4
+Arbor-3,1,0,0,1,6
+Arbor-4,2,1,0,1,1

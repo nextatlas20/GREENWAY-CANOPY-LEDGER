@@ -1,0 +1,7 @@
+{"sequence":1,"tree_id":"T-408","district":"West","crew":"Arbor-4","species":"Birch","alerts":["TRUNK","LEAN"],"risk_score":5,"priority":"EMERGENCY"}
+{"sequence":2,"tree_id":"T-401","district":"North","crew":"Arbor-1","species":"Elm","alerts":["TRUNK"],"risk_score":4,"priority":"EMERGENCY"}
+{"sequence":3,"tree_id":"T-403","district":"North","crew":"Arbor-1","species":"Maple","alerts":["LEAN"],"risk_score":1,"priority":"EMERGENCY"}
+{"sequence":4,"tree_id":"T-405","district":"South","crew":"Arbor-2","species":"Elm","alerts":["TRUNK","CANOPY","LEAN"],"risk_score":7,"priority":"URGENT"}
+{"sequence":5,"tree_id":"T-402","district":"South","crew":"Arbor-2","species":"Pine","alerts":["CANOPY","LEAN"],"risk_score":3,"priority":"URGENT"}
+{"sequence":6,"tree_id":"T-404","district":"East","crew":"Arbor-3","species":"Birch","alerts":["CANOPY"],"risk_score":2,"priority":"ROUTINE"}
+{"sequence":7,"tree_id":"T-407","district":"West","crew":"Arbor-4","species":"Maple","alerts":["CANOPY"],"risk_score":2,"priority":"ROUTINE"}
