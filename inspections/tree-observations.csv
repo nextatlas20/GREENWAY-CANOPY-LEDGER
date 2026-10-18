@@ -1,0 +1,9 @@
+tree_id,district,species,trunk_defect,canopy_loss_pct,lean_deg,adjacent_target
+T-401,North,Elm,yes,20,5,yes
+T-402,South,Pine,no,45,16,no
+T-403,North,Maple,no,25,10,yes
+T-404,East,Birch,no,51,8,no
+T-405,South,Elm,yes,36,12,no
+T-406,East,Pine,no,40,14,yes
+T-407,West,Maple,no,26,7,no
+T-408,West,Birch,yes,50,9,yes
